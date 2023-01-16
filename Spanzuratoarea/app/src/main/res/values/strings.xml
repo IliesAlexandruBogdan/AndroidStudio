@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spanzuratoarea</string>
+    <string name="hangman">HangMan</string>
+    <string name="start">Start</string>
+    <string name="letter">Type an letter</string>
+    <string name="trry">Enter</string>
+    <string name="ghici">CUVANT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vieti">VIATA PIERDUTA</string>
+</resources>
